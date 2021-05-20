@@ -6,5 +6,4 @@ Edit the script and provide the email to be use to send and receive the output t
 
 ### Payloads
 Used to automatically download and run the script to the victims computer using a Bad USB.
- - Rubber Ducky
- - Cactus WHID
+ - Al Nafi Cipher USB
